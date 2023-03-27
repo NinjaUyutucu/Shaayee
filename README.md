@@ -15,7 +15,7 @@ My First Plugin
 * MenuListener
 
 # Used Libraries
-* [spigot-api (1.16.5-R0.1-SNAPSHOT)](https://hub.spigotmc.org/stash/projects/SPIGOT/repos/spigot/browse)
+* [spigot-api (1.16.5-R0.1-SNAPSHOT)](https://hub.spigotmc.org/nexus/content/repositories/snapshots/org/spigotmc/spigot-api/1.16.5-R0.1-SNAPSHOT/)
 * [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
   
 # VirusTotal Test
