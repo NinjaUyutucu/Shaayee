@@ -6,6 +6,9 @@ My First Plugin
 * /playerinfo all <Player>
 * /menu <1/admin>
 * /discord
+  
+# PermissionList
+* permission.admin (Operator)
 
 # Listener
 * EventListener
