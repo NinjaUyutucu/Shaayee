@@ -1,0 +1,27 @@
+#Kullanılan komudun geri bildiriminde başında yazan yazıdır
+#ÖR = /gamemode 1
+#prefix Oyun modunuz yaratıcıya alındı
+Prefix: '&7[&3Shaayee&7] '
+NoPermission: '&4Bunu Kullanmak Içın Yetkiniz Yok'
+
+#Kullanılan komudun geri bildirimidir
+gm0-message: 'Oyun Modunuz Hayatta Kalmaya Alındı'
+gm1-message: 'Oyun Modunuz Yaratıcıya Alındı'
+gm2-message: 'Oyun Modunuz Maceraya Alındı'
+gm3-message: 'Oyun Modunuz Izleyiciye Alındı'
+
+#Oyuncuların sunucuya girdiğinde mesajlarda gözükecek olan yazılar !başlarında boşluk bırakın yoksa isim ile mesaj bitişik olabilir
+PlayerFirstLogin: ' Adlı Oyuncu Sunucuya Ilk Defa Katıldı'
+PlayerLogin: ' Sunucuya Katıldı'
+PlayerLoginPrivateMessage: ' Sunucuya Hoşgeldiniz'
+PlayerOffline: 'Oyuncu Bulunamadı'
+
+#Diğer mesajlar
+Teleporting: 'Işınlanılıyor...'
+CantBreak: 'Blok Kıramazsın'
+
+
+Discord: 'https://discord.gg/v4sG24A2dd'
+ConfigReload: 'Config Yeniden Yüklendi'
+
+test: true

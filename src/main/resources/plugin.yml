@@ -1,0 +1,27 @@
+name: Shaayee
+version: '${project.version}'
+main: org.deneme.deneme.Shaayee
+api-version: 1.16
+authors: [ Shaayee ]
+depend: [PlaceholderAPI]
+commands:
+  gm:
+    description: Oyun Modu Değiştirme Komudu
+  discord:
+    description: Discord Sunucu Linki
+    aliases:
+      - dc
+  menu:
+    description: Menüyü Açar
+    aliases:
+      - mn
+  sreload:
+    description: Plugini Yeniler
+    aliases:
+      - srl
+  playerinfo:
+    description: Oyuncu Bilgilerini Gösterir
+    aliases:
+      - pi
+      - playeri
+      - pinfo
