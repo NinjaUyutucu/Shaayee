@@ -1,0 +1,34 @@
+ErrorMessages:
+  "PlayerOnly": "&cDieser Befehl ist nur für Spieler!"
+  "NEArgs": "&cNicht genug Argumente"
+  "localeNoExist": "&cEs gibt kein Gebietsschema mit diesem Namen!"
+  "PlayerOffline": "&cSpieler nicht gefunden"
+
+SucessMessages:
+  "LocaleSet": "&aGebietsschema erfolgreich festgelegt"
+
+helpMessages:
+  "helpMessage": "Dies ist eine Testnachricht in Deutsch"
+
+SendMessages:
+  "Teleporting": "Teleporting..."
+  "PlayerFirstLogin": "&7Zum ersten Mal dem Server beigetreten"
+  "PlayerLogin": "&7Verbundener Server"
+  "PlayerLoginPrivateMessage": "Welcome to the server"
+  "GameMode1": "Ihr Spielmodus wurde auf Kreativ geändert"
+  "GameMode0": "Ihr Spielmodus wurde auf Überleben geändert"
+  #"TargetName": "&4Zielname:"
+  #"TargetHealth": " &4ZielGesundheit:"
+  #"TargetFirstJoinDate": " &4AngestrebteserstesBeitrittsdatum:"
+  #"TargetPing": " &4ZielPing:"
+  #"TargetGameMode": " &4Zielspielmodus:"
+  #"TargetLevel": " &4Zielebene:"
+  #"TargetFoodLvl": " &4Angestrebtes Lebensmittelniveau:"
+  #"TargetHasPer": " &4Ziel hat Berechtigung:"
+  #"TargetIsFly": " &4Zielfliegt:"
+  #"TargetIsOp": " &4Ziel ist Op:"
+  #"TargetItemInHandName": " &4Zielgegenstand in der Hand:"
+  #"TargetTime": " &4Zielzeit:"
+  #"TargetWorld": " &4ZielWelt:"
+  #"TargetXCoordinades": " &4ZeilX:"
+  #"TargetZCoordinades": " &4ZeilZ:"

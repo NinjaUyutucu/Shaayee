@@ -1,0 +1,39 @@
+#you can create your own language with .yml extension at the end
+ErrorMessages:
+  "PlayerOnly": "&cThis command is only for players!"
+  "NEArgs": "&cNot enough arguments"
+  "localeNoExist": "&cThere is no locale with this name!"
+  "PlayerOffline": "Player not found"
+
+SucessMessages:
+  "LocaleSet": "&aLocale set succesfully"
+
+helpMessages:
+  "helpMessage": "This is a test message in english"
+
+SendMessages:
+  "Teleporting": "Teleporting..."
+  "PlayerFirstLogin": "&7Joined the Server for the First Time"
+  "PlayerLogin": "&7Joined the Server"
+  "PlayerLoginPrivateMessage": "Welcome to the server"
+  "GameMode1": "Your GameMode has been changed to Creative"
+  "GameMode0": "Your GameMode has been changed to Survival"
+  #"PlayerFirstLogin": "&7Joined the Server for the First Time"
+  #"PlayerLogin": "&7Joined Server"
+  #"PlayerLoginPrivateMessage": "&7Welcome to the server"
+  #"TargetName": "&4TargetName:"
+  #"TargetHealth": " &4TargetHealth:"
+  #"TargetFirstJoinDate": " &4TargetFirstJoinDate:"
+  #"TargetPing": " &4TargetPing:"
+  #"TargetGameMode": " &4TargetGameMode:"
+  #"TargetLevel": " &4TargetLevel:"
+  #"TargetFoodLvl": " &4TargetFoodLvl:"
+  #"TargetHasPer": " &4TargetHasPer:"
+  #"TargetIsFly": " &4TargetIsFly:"
+  #"TargetIsOp": " &4TargetIsOp:"
+  #"TargetItemInHandName": " &4TargetItemInHand:"
+  #"TargetTime": " &4TargetTime:"
+  #"TargetWorld": " &4TargetWorld:"
+  #"TargetXCoordinades": " &4TargetX:"
+  #"TargetZCoordinades": " &4TargetZ:"
+

@@ -1,0 +1,35 @@
+name: Shaayee
+version: '1.0.2.1'
+main: org.deneme.deneme.Shaayee
+api-version: 1.16
+authors: [ Shaayee ]
+depend: [PlaceholderAPI]
+commands:
+  menu:
+    usage: /menu <menu_name>
+    description: Opens the Menu
+    aliases:
+      - mn
+  playerinfo:
+    usage: /playerinfo all <Player>
+    description: Shows Player Information
+    aliases:
+      - pi
+      - playeri
+      - pinfo
+      - spielerinfo
+      - oyuncubilgi
+  setLang:
+    usage: /setLang <File name>
+    description: Change lang
+    aliases:
+      - sl
+      - setl
+      - slang
+      - spracheinstellen
+      - se
+      - dilayarlama
+      - da
+  shelp:
+    usage: /shelp
+    description: Its a test command
